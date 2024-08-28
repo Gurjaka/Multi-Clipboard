@@ -19,6 +19,7 @@
         python3
         fish
         py.pyperclip
+        py.pip
       ];
 
       shellHook = ''
